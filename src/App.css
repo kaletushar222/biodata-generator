@@ -1,0 +1,52 @@
+.biodata-container {
+  padding: 20px;
+}
+
+.bg1 {
+  background-color: #f0f0f0;
+}
+
+.bg2 {
+  background-color: #d3d3d3;
+}
+
+.bg3 {
+  background-color: #e0e0e0;
+}
+
+.biodata {
+  padding: 20px;
+  border: 2px solid #333;
+  border-radius: 10px;
+}
+
+.template1 {
+  color: #333;
+}
+
+.template2 {
+  color: #555;
+}
+
+.template3 {
+  color: #777;
+}
+
+.dropdown-toggle::after {
+  content: none; /* Remove default arrow icon */
+}
+
+.custom-input {
+  font-size: 16px;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  width: 100%;
+}
+
+.custom-form label {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+
